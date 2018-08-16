@@ -1,5 +1,6 @@
 # ObAIoT_GASAPI
-A collection of useful Google Apps Script API and web services
+A collection of useful Google Apps Script API.<br/>
+You may add the API in you Apps Script project or call the API by web service.<
 First of all, a Gmail verifier is present for validating if a email address is a valid "Gmail".<br/> 
 
 # Setup
