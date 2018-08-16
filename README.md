@@ -11,7 +11,7 @@ Choose a version in the dropdown box (to pick the latest version).
 Click the "Save" button.
 2. Enable the "Drive API" at both
 "Resources > Advanced Google Services..."
-"Resources > Cloud Platform project...
+"Resources > Cloud Platform project...<br/><br/>
 
 * Web Service
 API endpoint:
