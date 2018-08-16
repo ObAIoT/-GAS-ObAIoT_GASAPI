@@ -29,7 +29,7 @@ var gmailVerifierApi = new ObAIoTGASAPI.cGmailVerifier();
 var response = gmailVerifierApi.validate($Gmail_to_validate);
 ```
 * Web Service:<br/>
-Example is in javascript<br/> 
+Example in javascript:<br/> 
 ```javascript
  try {
     var webHookUrl = 'https://script.google.com/macros/s/AKfycbxswDaJlXbeV9dzcm8dTHLqGunlBeSOoiKtgD5rGQoRpwItAa9w/exec';
