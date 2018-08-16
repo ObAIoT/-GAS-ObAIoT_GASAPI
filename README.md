@@ -20,9 +20,11 @@ success: true for API call success or false for failure,  <br/>
 gmail: the gmail to validate,  <br/>
 isValidGmail: indicates if a valid Gmail address  <br/>
 
-* Web Service: example in javascript
+* Web Service: 
+Example is in javascript, the API endpoint: <br/> 
+https://script.google.com/macros/s/AKfycbxswDaJlXbeV9dzcm8dTHLqGunlBeSOoiKtgD5rGQoRpwItAa9w/exec
 ```javascript
-  try {
+ try {
     var webHookUrl = 'https://script.google.com/macros/s/AKfycbxswDaJlXbeV9dzcm8dTHLqGunlBeSOoiKtgD5rGQoRpwItAa9w/exec';
     var payload = {
       "gmail" : gmail,  
@@ -40,11 +42,11 @@ isValidGmail: indicates if a valid Gmail address  <br/>
       return response;
     }
     else {
-      Logger.log('validateEmail, post to Gmail Verifier web app failed, error code = ' + responseCode);
+      Logger.log('validateEmail, post to Gmail Verifier web service failed, error code = ' + responseCode);
       return response;
     }
   }
    catch (ex) {
-    Logger.log('validateEmail, post to Gmail Verifier web app failed, ex = ' + ex);
+    Logger.log('validateEmail, post to Gmail Verifier web service failed, ex = ' + ex);
   }
 ```
