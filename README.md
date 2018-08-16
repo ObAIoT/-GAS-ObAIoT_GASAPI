@@ -9,8 +9,8 @@ This library is already published as an Apps Script API, making it easy to inclu
 In the "Add a Library" text box, enter the project key ```MSNSZfBH_WHXkkG_V3T5W5eFrpvyrbQzU``` and click the "Add" button.
 Choose a version in the dropdown box (to pick the latest version).
 Click the "Save" button.
-2. Enable the "Drive API" at both
-"Resources > Advanced Google Services..."
+2. Enable the "Drive API" in both
+"Resources > Advanced Google Services..." &
 "Resources > Cloud Platform project...<br/><br/>
 
 * Web Service
