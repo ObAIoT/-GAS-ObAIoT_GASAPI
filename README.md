@@ -1,6 +1,6 @@
 # ObAIoT_GASAPI
 A collection of useful Google Apps Script API and web services
-First of all, a Gmail verifier is present for validating if a email address is a valid Gmail.
+First of all, a Gmail verifier is present for validating if a email address is a valid "Gmail".<br/> 
 
 # Setup
 * Google Apps Script API
@@ -35,7 +35,7 @@ Example is in javascript, the API endpoint: <br/>
     var webHookUrl = 'https://script.google.com/macros/s/AKfycbxswDaJlXbeV9dzcm8dTHLqGunlBeSOoiKtgD5rGQoRpwItAa9w/exec';
     var payload = {
       "API": "gmailVerifier.validate",
-      "gmail" : $email_to_validate,  
+      "gmail" : $Gmail_to_validate,  
     }
     
     var options =  {
