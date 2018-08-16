@@ -9,7 +9,7 @@ In the "Add a Library" text box, enter the project key ```MSNSZfBH_WHXkkG_V3T5W5
 Choose a version in the dropdown box (to pick the latest version).
 Click the "Save" button.
 
-#Getting Started
+# Getting Started
 * Google Apps Script API
 ```javascript
 var gmailVerifierApi = new ObAIoTGASAPI.cGmailVerifier();
