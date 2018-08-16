@@ -14,7 +14,7 @@ Click the "Save" button.
 "Resources > Cloud Platform project...<br/><br/>
 
 * Web Service
-POST to API endpoint:
+POST to API endpoint:<br/>
 https://script.google.com/macros/s/AKfycbxswDaJlXbeV9dzcm8dTHLqGunlBeSOoiKtgD5rGQoRpwItAa9w/exec
 
 # Getting Started
