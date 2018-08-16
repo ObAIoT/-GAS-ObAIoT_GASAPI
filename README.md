@@ -13,7 +13,7 @@ Click the "Save" button.
 "Resources > Advanced Google Services..." &
 "Resources > Cloud Platform project...<br/><br/>
 
-* Web Service
+* Web Service<br/>
 POST to API endpoint:<br/>
 https://script.google.com/macros/s/AKfycbxswDaJlXbeV9dzcm8dTHLqGunlBeSOoiKtgD5rGQoRpwItAa9w/exec
 
