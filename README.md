@@ -18,10 +18,10 @@ POST to API endpoint:<br/>
 https://script.google.com/macros/s/AKfycbxswDaJlXbeV9dzcm8dTHLqGunlBeSOoiKtgD5rGQoRpwItAa9w/exec
 
 # Getting Started
-response is a JSON object: <br/> {"success":true,"gmail":"contact@obaiot.com","isValidGmail":true} <br/>
-success: true for API call success or false for failure,  <br/>
-gmail: the gmail to validate,  <br/>
-isValidGmail: indicates if a valid Gmail address  <br/>
+Response is a JSON object: <br/> {"success":true,"gmail":"contact@obaiot.com","isValidGmail":true} <br/>
+- success: true for API call success or false for failure,  <br/>
+- gmail: the gmail to validate,  <br/>
+- isValidGmail: indicates if a valid Gmail address  <br/>
 
 * Google Apps Script API
 ```javascript
