@@ -26,7 +26,7 @@ isValidGmail [bool]: indicates if a valid Gmail address  <br/>
 * Google Apps Script API
 ```javascript
 var gmailVerifierApi = new ObAIoTGASAPI.cGmailVerifier();
-var response = gmailVerifierApi.validate(gmail);
+var response = gmailVerifierApi.validate($Gmail_to_validate);
 ```
 * Web Service: 
 Example is in javascript, the API endpoint: <br/> 
