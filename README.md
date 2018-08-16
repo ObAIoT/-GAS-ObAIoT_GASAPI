@@ -58,3 +58,10 @@ Example in javascript:<br/>
     Logger.log('post to ObAIoT_GASAPI failed, ex = ' + ex);
   }
 ```
+
+For more info, please email me contact@obaiot.com
+
+### John 14:6
+Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.<br/><br/>
+
+For more information, please feel free to email: contact@obaiot.com
