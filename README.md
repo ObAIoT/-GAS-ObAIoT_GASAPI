@@ -14,7 +14,7 @@ Click the "Save" button.
 var gmailVerifierApi = new ObAIoTGASAPI.cGmailVerifier();
 var response = gmailVerifierApi.validate(gmail);
 ```
-response is a JSON object: {"success":true,"gmail":"contact@obaiot.com","isValidGmail":true} <br/>
+response is a JSON object: <br/> {"success":true,"gmail":"contact@obaiot.com","isValidGmail":true} 
 success: true for API call success or false for failure, 
 gmail: the gmail to validate
 isValidGmail: indicates if a valid Gmail address
