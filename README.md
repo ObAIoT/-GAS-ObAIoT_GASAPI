@@ -19,9 +19,9 @@ https://script.google.com/macros/s/AKfycbxswDaJlXbeV9dzcm8dTHLqGunlBeSOoiKtgD5rG
 
 # Getting Started
 Response is a JSON object: <br/> {"success":true,"gmail":"contact@obaiot.com","isValidGmail":true} <br/>
-- success: true for API call success or false for failure,  <br/>
-- gmail: the gmail to validate,  <br/>
-- isValidGmail: indicates if a valid Gmail address  <br/>
+success: true for API call success or false for failure,  <br/>
+gmail: the gmail to validate,  <br/>
+isValidGmail: indicates if a valid Gmail address  <br/>
 
 * Google Apps Script API
 ```javascript
