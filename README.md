@@ -3,7 +3,7 @@ A collection of useful Google Apps Script API related to Google Serives. You may
 First of all, a Gmail verifier is present for validating if a email address is a valid "Gmail".
 
 # Setup
-* Google Apps Script API
+* Google Apps Script API<br/>
 This library is already published as an Apps Script, making it easy to include in your project. To add it to your script, do the following in the Apps Script editor:
 1. Click on the menu item "Resources > Libraries..."
 In the "Add a Library" text box, enter the project key ```MSNSZfBH_WHXkkG_V3T5W5eFrpvyrbQzU``` and click the "Add" button.
